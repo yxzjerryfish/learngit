@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
-My name is Fish Paradise
+Start to learn python from Github.
+My name is Fish Paradise.
